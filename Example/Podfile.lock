@@ -1,0 +1,16 @@
+PODS:
+  - DucHoangFrameWork (0.1.0)
+
+DEPENDENCIES:
+  - DucHoangFrameWork (from `../`)
+
+EXTERNAL SOURCES:
+  DucHoangFrameWork:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DucHoangFrameWork: 4a7a3becd55045d6c3f9c2b53889364a16620c7c
+
+PODFILE CHECKSUM: 9fe3071580502909e08bb69c8e5b44ca23588602
+
+COCOAPODS: 1.11.3

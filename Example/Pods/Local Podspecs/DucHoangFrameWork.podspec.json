@@ -1,0 +1,22 @@
+{
+  "name": "DucHoangFrameWork",
+  "version": "0.1.0",
+  "summary": "A short description of DucHoangFrameWork.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/hoanglk25/DucHoangFrameWork",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hoanglk25": "hoanglk2512@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/hoanglk25/DucHoangFrameWork.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "DucHoangFrameWork/Classes/**/*"
+}

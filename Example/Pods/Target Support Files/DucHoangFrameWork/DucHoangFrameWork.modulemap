@@ -1,0 +1,6 @@
+framework module DucHoangFrameWork {
+  umbrella header "DucHoangFrameWork-umbrella.h"
+
+  export *
+  module * { export * }
+}

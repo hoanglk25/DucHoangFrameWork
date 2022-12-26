@@ -7,9 +7,10 @@
 //
 
 #import "DHViewController.h"
+#import <DucHoangFrameWork/Logger.h>
 
 @interface DHViewController ()
-
+@property (nonatomic) Logger* log;
 @end
 
 @implementation DHViewController
@@ -17,7 +18,8 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
+    _log = [[Logger alloc] init];
+    [_log method];
 }
 
 - (void)didReceiveMemoryWarning
